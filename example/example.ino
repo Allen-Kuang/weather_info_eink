@@ -16,11 +16,11 @@
 #endif
 
 // WiFi configuration
-const char* ssid = "Maker_2.4G";
-const char* password = "maker2025";
+const char* ssid = "xxx";
+const char* password = "xxx";
 
 // OpenWeather API configuration
-const char* apiKey = "7fa904ddcca965c7c641d02ac563da75";
+const char* apiKey = "Your OpenWeather Key";
 const int cityId = 1795565; // Shenzhen city ID
 const char* server = "api.openweathermap.org";
 
